@@ -1,8 +1,13 @@
-# Getting Started with Create React App
+# #Text_Analyser with React Js and CSS and Javascript
+
+This website helps you to analyse and keep record of various text. It is also provide some modification to your paragraph like you want to convert all small case letter of paragraph to uppercase.
+
+This is made by me - Sparsh Verma Github Link- https://github.com/sparshrex
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Github Account 
+
 
 In the project directory, you can run:
 
